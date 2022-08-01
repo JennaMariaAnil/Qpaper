@@ -53,7 +53,7 @@ $all_c = mysqli_query($conn,$sql);
         <br>
         <br>
     <main id="course_holder">
-    <h1 id="course-header">&nbsp;EDIT COURSE</h1><br>
+    <h1 id="course-header">&nbsp;DELETE COURSE</h1><br>
         <form id="course_form"  method=post>
         
     
