@@ -1,0 +1,210 @@
+
+  
+  body {
+    height: 100%;
+    margin: 0;
+    
+    background-image:url("Untitled2.png");
+    background-repeat: no-repeat;
+    background-size: 1550px 755px;
+    background-color: rgb(193, 223, 253);
+    font-family: "Lucida Console", monospace;
+    letter-spacing: 3px;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+  }
+  .header{
+    padding: 5px 80px 5px 80px;
+    
+    
+}
+  
+.logo{
+    float:left;
+    padding-top:20px;
+    padding-left:40px
+    
+}
+
+
+.nav {
+    background-color: rgb(193, 223, 253);
+    font-family: "Lucida Console", monospace;
+    float:right;
+    letter-spacing: 3px;
+    padding-top:58px;
+    padding-right:50px;
+  }
+  
+  .nav a {
+    background-color: rgb(175, 214, 252);
+    border-radius: 0px;
+    float: right;
+    color: #302856;
+    text-align: center;
+    padding: 14px 50px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+  .nav a:hover {
+    background-color: #ddd;
+    border-radius: 15px 50px 30px;
+    color: rgb(48, 89, 162);
+    padding: 14px 50px;
+  }
+  
+ 
+
+  main{
+    background-color:rgb(255, 255, 255);
+    border-radius: 7px;
+    box-shadow: 0px 0px 5px 2px rgb(175, 214, 252);
+    width: 50%;
+    height:105%;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+  
+  }
+
+  form{
+
+    justify-items: center;
+    align-items: center;
+    font-size: 18px;
+
+  }
+
+   
+  
+
+
+   #semester{
+    font-size: 15px;
+
+   width: 22%;
+   border-width: 3px;
+   border-radius: 5px;
+   }
+
+   #Semester{
+    border-radius: 5px;
+    background-color: rgb(193, 223, 253);
+   }
+
+   #branch{
+    font-size: 15px;
+
+    width: 22%;
+    border-width: 3px;
+   border-radius: 5px;
+    }
+    #Branch{
+      border-radius: 5px;
+      background-color: rgb(193, 223, 253);
+     }
+
+
+     #ccname
+     {
+      font-size: 15px;
+      border-width: 3px;
+      border-radius: 5px;
+      width: 20%;
+     }
+     #course_code{
+      border-radius: 5px;
+      background-color: rgb(193, 223, 253);
+     }
+ 
+     
+     #module_No{
+
+      font-size: 15px;
+      width: 22%;
+      border-width: 3px;
+      border-radius: 5px;
+      }
+      #Module_No{
+        border-radius: 5px;
+        background-color: rgb(193, 223, 253);
+       }
+      #Type{
+
+        font-size: 15px;
+        width: 22%;
+        border-width: 3px;
+        border-radius: 5px;
+        }
+        #Question_type{
+          border-radius: 5px;
+          background-color: rgb(193, 223, 253);
+         }
+
+
+      #qts{
+        font-size: 15px;
+        width: 99%;
+        height:60%;
+        border-width: 3px;
+        border-radius: 5px;
+        margin-top: 5px;
+      }
+      #qt{
+        border-radius: 5px;
+        background-color: rgb(193, 223, 253);
+       }
+       #qp{
+        font-size: 15px;
+        width: 22%;
+        border-width: 3px;
+        border-radius: 5px;
+        margin-top: 5px;
+      }
+      #qp_type{
+        border-radius: 5px;
+        background-color: rgb(193, 223, 253);
+       }
+
+      .bloomss{
+       
+        border-style: solid;
+        border-radius: 5px;
+        border-color:rgb(98, 94, 94);
+        padding-top: 5px;
+        padding-bottom: 5px;
+        margin-top: 5px;
+       
+      }
+      #Blooms_l{
+        border-radius: 5px;
+        background-color: rgb(193, 223, 253);
+       }
+
+       #CO{
+        border-radius: 5px;
+        background-color: rgb(193, 223, 253);
+       }
+
+       #add2{
+        font-size: 18px;
+        margin-left:260px;
+        width: 30%;
+        padding: 3px;
+        border: none;
+        border-radius: 5px;
+        color: white;
+        font-weight: bold;
+        background-color: rgb(48, 89, 162);
+        cursor: pointer;
+        outline: none;
+    
+       }
+
+    
+       
+      
+      
+ 

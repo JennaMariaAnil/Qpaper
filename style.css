@@ -1,0 +1,201 @@
+
+
+body {
+    
+  background-image:url("Untitled3.png");
+  background-size: 1550px 755px;
+  background-repeat: repeat-y;
+  background-color: rgb(193, 223, 253);
+    color:rgb(24, 15, 69);
+}
+.header{
+    padding: 5px 80px 5px 80px;
+    
+}
+  
+.logo{
+    float:left;
+    padding-top:20px;
+    padding-left:40px
+    
+}
+
+
+.nav {
+    background-color: rgb(193, 223, 253);
+    font-family: "Lucida Console", monospace;
+    float:right;
+    letter-spacing: 3px;
+    padding-top:58px;
+    padding-right:50px;
+  }
+  
+  .nav a {
+    background-color: rgb(175, 214, 252);
+    border-radius: 0px;
+    float: right;
+    color: #302856;
+    text-align: center;
+    padding: 14px 50px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+  .nav a:hover {
+    background-color: #ddd;
+    border-radius: 15px 50px 30px;
+    color: rgb(48, 89, 162);
+    padding: 14px 50px;
+  }
+
+  .main2{
+    float:left;
+} 
+
+  .img2{
+   
+    float:left;
+    padding:50px 120px 0px 0px;
+  }
+  .main_text{
+    padding:0px 30px 0px 10px;
+    
+
+  }
+  .main_text pre{
+    font-family: 'Acme'; 
+    font-size: 65px;
+    
+  }
+  
+  .option_main{
+    padding-top:190px;
+    padding-left:50px;
+    padding-right:70px;
+    
+
+  }
+  .options {
+    font-family: "Lucida Console", monospace;
+    float: left;
+    width:780px;
+    height:380px;
+   
+    
+  }
+
+  
+  .options a {
+    float: left;
+    color: #ffffff;
+    border-radius: 10px;
+    background-color: rgb(33, 78, 156);
+    text-align: center;
+    padding: 10px 10px;
+    width: 150px;
+    height: 150px;
+    text-decoration: none;
+    font-size: 25px;
+    margin: 10px 10px;
+  }
+  
+  .options a:hover {
+    background-color: rgb(206, 206, 206);
+    border-radius:  15px 50px 30px;
+    color: rgb(110, 149, 217);
+    padding: 10px 10px;
+    width: 150px;
+    height: 150px;
+  }
+
+  .img3{
+    float: right;
+  }
+  
+  .why{
+    padding-top: 700px;
+    margin-left: 480px;
+    
+  }
+  
+    
+  .one{
+    padding-top: 10px; 
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    margin-left: 420px;
+    border-radius: 100px;
+    width:500px;
+  
+  }
+
+  .two{
+    padding-top: 10px; 
+    margin-bottom: 10px;
+    margin-left: 420px;
+    border-radius: 100px;
+    width:500px;
+   
+   
+  }
+  .three{
+    padding-top: 10px; 
+    margin-bottom: 10px;
+    margin-left: 420px;
+    border-radius: 100px;
+    width:500px;
+    
+  
+  }
+ 
+  .one pre{
+    font-family: "Agency FB";
+    text-align: center;
+    font-size: 30px;
+    color:rgb(0, 0, 0);
+    
+    
+
+  }
+  .two pre{
+    font-family: "Agency FB";
+    text-align: center;
+    font-size: 30px;
+    color:rgb(0, 0, 0);
+    
+    
+
+  }
+  .three pre{
+    font-family: "Agency FB";;
+    text-align: center;
+    font-size: 30px;
+    color:rgb(0, 0, 0);
+    
+    
+
+  }
+  .img11{
+    margin-left: 100px;
+  }
+
+ .ca{
+  background-color: white;
+  border-radius: 100px;
+ }
+
+  .footer {
+    
+    
+  
+    height:200px;
+    width: 100%;
+    background-color: rgb(175, 214, 252);
+    color: white #302856;;
+    
+ }
+  
+ 
+
+  
+  
